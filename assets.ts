@@ -3,16 +3,16 @@ namespace storySprites {
     //% tags="background"
     export const halloween = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background misc"
+    //% tags="misc"
     export const halloweenText = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background misc"
+    //% tags="misc"
     export const holidayText = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     //% tags="misc"
     export const mistletoe = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background misc"
+    //% tags="misc"
     export const valentinesText = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     //% tags="background"
@@ -24,7 +24,7 @@ namespace storySprites {
     //% tags="background"
     export const birthday = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background misc"
+    //% tags="misc"
     export const birthdayText = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     //% tags="background"
@@ -42,7 +42,7 @@ namespace storySprites {
     //% tags="background"
     export const lake = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background misc"
+    //% tags="misc"
     export const earthdayText = image.ofBuffer(hex``);
 
 }
